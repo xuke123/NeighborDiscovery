@@ -1,0 +1,103 @@
+Miss 8, 27172
+Insert node 11 offsetTime -283
+inQuality = 100
+------------------neig list info-----------------
+id = 11, inQuality = 100 
+------------------------------------------------
+------------------neig param info-----------------
+id: 11, offsetTime: -283
+------------------------------------------------
+Miss 11, 5345
+BASE Beacon id 11 at 6501
+RENDEZ Beacon id 11 at 9260
+inQuality = 76
+RENDEZ Beacon id 11 at 13462
+RENDEZ Beacon id 11 at 17096
+delete node 11 ,idx 3
+delete paratable node 11, idx 3!
+Insert node 11 offsetTime -19908
+Miss 11, 24969
+BASE Beacon id 11 at 26124
+inQuality = 66
+RENDEZ Beacon id 11 at 28883
+RENDEZ Beacon id 11 at 33086
+RENDEZ Beacon id 11 at 36719
+inQuality = 89
+RENDEZ Beacon id 11 at 40746
+Insert node 11 offsetTime -224
+inQuality = 100
+------------------neig list info-----------------
+id = 11, inQuality = 100 
+------------------------------------------------
+------------------neig param info-----------------
+id: 11, offsetTime: -224
+------------------------------------------------
+Miss 11, 5286
+BASE Beacon id 11 at 6441
+RENDEZ Beacon id 11 at 9201
+inQuality = 76
+BASE Beacon id 11 at 944
+Insert node 11 offsetTime 10138
+BASE Beacon id 11 at 2298
+RENDEZ Beacon id 11 at 3041
+inQuality = 100
+BASE Beacon id 11 at 4307
+------------------neig list info-----------------
+id = 11, inQuality = 100 
+------------------------------------------------
+------------------neig param info-----------------
+id: 11, offsetTime: 10138
+------------------------------------------------
+RENDEZ Beacon id 11 at 6675
+RENDEZ Beacon id 11 at 10701
+inQuality = 100
+RENDEZ Beacon id 11 at 14880
+RENDEZ Beacon id 11 at 18769
+RENDEZ Beacon id 11 at 21731
+inQuality = 100
+BASE Beacon id 11 at 24413
+RENDEZ Beacon id 11 at 26925
+RENDEZ Beacon id 11 at 30311
+inQuality = 100
+RENDEZ Beacon id 11 at 34650
+RENDEZ Beacon id 11 at 39499
+RENDEZ Beacon id 11 at 44222
+inQuality = 100
+RENDEZ Beacon id 11 at 48976
+RENDEZ Beacon id 11 at 52722
+RENDEZ Beacon id 11 at 56221
+inQuality = 100
+RENDEZ Beacon id 11 at 59030
+RENDEZ Beacon id 11 at 63512
+RENDEZ Beacon id 11 at 66827
+inQuality = 100
+RENDEZ Beacon id 11 at 70932
+RENDEZ Beacon id 11 at 74591
+RENDEZ Beacon id 11 at 78361
+inQuality = 100
+BASE Beacon id 11 at 79119
+RENDEZ Beacon id 11 at 82603
+RENDEZ Beacon id 11 at 86477
+inQuality = 100
+RENDEZ Beacon id 11 at 90943
+RENDEZ Beacon id 11 at 94761
+RENDEZ Beacon id 11 at 98492
+inQuality = 100
+BASE Beacon id 11 at 98987
+RENDEZ Beacon id 11 at 102493
+RENDEZ Beacon id 11 at 106928
+inQuality = 100
+Miss 11, 110769
+stopListen fail, error 9
+Miss 11, 113004
+Miss 11, 113942
+inQuality = 30
+Miss 11, 114747
+Miss 11, 118437
+Miss 11, 122199
+inQuality = 9
+Miss 11, 126193
+Miss 11, 129379
+Miss 11, 132517
+inQuality = 2
+Miss 11, 136167

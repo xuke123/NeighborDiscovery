@@ -1,0 +1,88 @@
+RENDEZ Beacon id 11 at 25074 ,rcv 25070, send 13174
+stopListen fail, error 9
+BASE Beacon id 11 at 29484, rcv 29481, send 17584
+inQuality = 100
+RENDEZ Beacon id 11 at 32734 ,rcv 32730, send 20834
+RENDEZ Beacon id 11 at 36913 ,rcv 36909, send 25012
+Insert node 11 offsetTime -192
+inQuality = 100
+-------------neig list info------------
+id = 11, inQuality = 100 
+--------------------------------------
+-------------neig param info------------
+id: 11, offsetTime: -192
+---------------------------------------
+RENDEZ Beacon id 11 at 5239 ,rcv 5235, send 5043
+RENDEZ Beacon id 11 at 9169 ,rcv 9165, send 8973
+RENDEZ Beacon id 11 at 13371 ,rcv 13367, send 13175
+inQuality = 100
+RENDEZ Beacon id 11 at 17006 ,rcv 17001, send 16809
+RENDEZ Beacon id 11 at 21031 ,rcv 21027, send 20835
+RENDEZ Beacon id 11 at 25210 ,rcv 25206, send 25013
+inQuality = 100
+stopListen fail, error 9
+RENDEZ Beacon id 11 at 29100 ,rcv 29095, send 28903
+stopListen fail, error 5
+BASE Beacon id 11 at 33268, rcv 33265, send 33072
+RENDEZ Beacon id 11 at 37256 ,rcv 37252, send 37059
+inQuality = 100
+RENDEZ Beacon id 11 at 40642 ,rcv 40638, send 40445
+RENDEZ Beacon id 11 at 44980 ,rcv 44976, send 44783
+RENDEZ Beacon id 11 at 49831 ,rcv 49826, send 49634
+inQuality = 100
+stopListen fail, error 9
+RENDEZ Beacon id 11 at 54552 ,rcv 54548, send 54355
+RENDEZ Beacon id 11 at 59307 ,rcv 59303, send 59110
+RENDEZ Beacon id 11 at 63053 ,rcv 63048, send 62855
+inQuality = 100
+RENDEZ Beacon id 11 at 66551 ,rcv 66547, send 66354
+RENDEZ Beacon id 11 at 69361 ,rcv 69357, send 69163
+RENDEZ Beacon id 11 at 73843 ,rcv 73839, send 73646
+inQuality = 100
+stopListen fail, error 9
+RENDEZ Beacon id 11 at 77157 ,rcv 77153, send 76959
+RENDEZ Beacon id 11 at 81264 ,rcv 81259, send 81066
+RENDEZ Beacon id 11 at 84921 ,rcv 84917, send 84723
+inQuality = 100
+stopListen fail, error 5
+RENDEZ Beacon id 11 at 88692 ,rcv 88688, send 88494
+RENDEZ Beacon id 11 at 92933 ,rcv 92929, send 92735
+RENDEZ Beacon id 11 at 96808 ,rcv 96804, send 96610
+inQuality = 100
+stopListen fail, error 9
+RENDEZ Beacon id 11 at 101274 ,rcv 101269, send 101075
+RENDEZ Beacon id 11 at 105092 ,rcv 105088, send 104894
+RENDEZ Beacon id 11 at 108822 ,rcv 108818, send 108623
+inQuality = 100
+stopListen fail, error 9
+RENDEZ Beacon id 11 at 112825 ,rcv 112820, send 112626
+BASE Beacon id 11 at 370, rcv 367, send 115670
+Insert node 11 offsetTime 115303
+RENDEZ Beacon id 11 at 1760 ,rcv 1756, send 117059
+BASE Beacon id 11 at 3235, rcv 3232, send 118535
+inQuality = 100
+BASE Beacon id 11 at 3938, rcv 3935, send 119238
+-------------neig list info------------
+id = 11, inQuality = 100 
+--------------------------------------
+-------------neig param info------------
+id: 11, offsetTime: 115303
+---------------------------------------
+RENDEZ Beacon id 11 at 5586 ,rcv 5582, send 120886
+Call send Data SUCCESS at 5598
+stopListen fail, error 9
+Receive informMsg from 11
+BASE Beacon id 11 at 8758, rcv 8755, send 124058
+inQuality = 100
+RENDEZ Beacon id 11 at 9564 ,rcv 9560, send 124863
+RENDEZ Beacon id 11 at 13255 ,rcv 13250, send 128554
+RENDEZ Beacon id 11 at 17016 ,rcv 17012, send 132315
+inQuality = 100
+stopListen fail, error 9
+RENDEZ Beacon id 11 at 21011 ,rcv 21007, send 136310
+RENDEZ Beacon id 11 at 24196 ,rcv 24192, send 139495
+RENDEZ Beacon id 11 at 27335 ,rcv 27331, send 142634
+inQuality = 100
+stopListen fail, error 9
+BASE Beacon id 11 at 30378, rcv 30375, send 145678
+RENDEZ Beacon id 11 at 30985 ,rcv 30981, send 146283

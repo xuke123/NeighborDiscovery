@@ -1,0 +1,4318 @@
+騊Q �0�4騊Q �0麮c8C`01矂f`餋騊Q �0�4騊Q �0麮c8C`01矂f`餋騊Q �0黷сc⺧�Q���序�3郈�󃤮c8C痧Cc8`餋騊Q �0�4騊Q �0麮c8C痧Cc8`餋騊Q �0�4сc⺧��󃤮騊Q �0麮сc䁖�c8C囵Cc8`餋�󃤮騊Q �0�4с泾k�騊Q �0麮c8C囵Cc8`餋騊Q �0�4Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 92 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 97
+--id = 1 ,Lq = 97 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 97 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 97 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+stopListen fail, error 5
+Rcv BASE Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+stopListen fail, error 5
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:start radio task
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+stopListen fail, error 9
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+stopListen fail, error 9
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+stopListen fail, error 5
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Miss 3, 273508
+Rcv BASE Beacon id 3
+inQuality = 75
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 75 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 75 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 75 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 92
+Miss 1, 287051
+inQuality = 75
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 75 (2)
+--id = 3 ,Lq = 92 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 92
+--id = 1 ,Lq = 92 (2)
+--id = 3 ,Lq = 92 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 97
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 92 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 92 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 97
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 97 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 97 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 97 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Miss 3, 366264
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 75
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 75 (2)
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 75 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 75 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 75 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 92
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 92 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 92 (2)
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 92 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 97
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+stopListen fail, error 9
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+stopListen fail, error 5
+Rcv BASE Beacon id 3
+stopListen fail, error 5
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+--id = 1 ,Lq = 99 (Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 493959
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 494953
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 496256
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 497145
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 498100
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 498804
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 500134
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 501170
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 502195
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 503687
+senderp:not ready with rstate = 5, 504324
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 504988
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 505760
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 506920
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 507946
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 508518
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 509519
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 510026
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 511319
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 511881
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 512389
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 513723
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 514966
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 516395
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 517490
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 518934
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 519604
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 520580
+senderp:not ready with rstate = 5, 521144
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 521776
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 523154
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 524158
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 524871
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 525570
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 526735
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 528051
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 529389
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 530836
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 531669
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 532371
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 533619
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 534293
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 535475
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 536445
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 537681
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 538863
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 539874
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 540791
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 541894
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 542666
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 543784
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 545128
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 545781
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 547020
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 548325
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 549379
+senderp:not ready with rstate = 5, 550059
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 551445
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 552819
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 553661
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 554649
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 555663
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 556786
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 557295
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 558670
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 559594
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 560944
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 561800
+senderp:not ready with rstate = 5, 562445
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 563356
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 564213
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 564899
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 565491
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 566269
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 567715
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 568511
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 569529
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 570856
+senderp:not ready with rstate = 5, 571769
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 572751
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 573479
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 574833
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 575895
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 576945
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 577461
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 578123
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 578814
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 579611
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 580794
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 581846
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 582444
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 583468
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 584001
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 585320
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 585905
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 586439
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 587799
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 589065
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 590523
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 591641
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 593108
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 593804
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 594806
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 595394
+senderp:not ready with rstate = 5, 596051
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 597454
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 598483
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 599221
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 599945
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 601135
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 602474
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 603839
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 605311
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 606169
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 606896
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 608169
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 608868
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 610076
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 611070
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 612330
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 613539
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 614574
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 615515
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 616645
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 617441
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 618583
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 619954
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 620631
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 621895
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 623226
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 624304
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 625008
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 626420
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 627820
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 628691
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 629698
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 630739
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 631886
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 632419
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 633821
+senderp:not ready with rstate = 5, 634769
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 636143
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 637026
+senderp:not ready with rstate = 5, 637695
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 638630
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 639514
+senderp:not ready with rstate = 5, 640224
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 640840
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 641644
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 643116
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 643934
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 644978
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 646331
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 647270
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 648275
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 649029
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 650409
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 651495
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 652570
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 653111
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 653798
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 654514
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 655336
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 656544
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 657620
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 658244
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 659294
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 659850
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 661195
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 661806
+senderp:not ready with rstate = 5, 662363
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 663749
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 665041
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 666519
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 667666
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 669159
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 669878
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 670906
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 671520
+senderp:not ready with rstate = 5, 672200
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 673628
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 674684
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 675446
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 676194
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 677411
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 678774
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 680166
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 681661
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 682545
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 683295
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 684594
+senderp:not ready with rstate = 5, 685319
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 686550
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 687570
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 688856
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 690088
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 691148
+senderp:not ready with rstate = 5, 692116
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 693270
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 694090
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 695259
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 696654
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 697355
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 698645
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 700001
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 701103
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 701834
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 703271
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 704694
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 705586
+senderp:not ready with rstate = 5, 706624
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 707688
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 708860
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 709420
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 710846
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 711818
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 713219
+senderp:not ready with rstate = 5, 714126
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 714819
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 715781
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 716689
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 717423
+senderp:not ready with rstate = 5, 718066
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 718895
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 720390
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 721234
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 722304
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 723680
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 724644
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 725676
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 726454
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 727858
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 728971
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 730070
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 730635
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 731349
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 732089
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 732935
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 734170
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 735271
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 735918
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 736994
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 737576
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 738944
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 739580
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 740164
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 741574
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 742890
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 743395
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 744566
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 745083
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 745829
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 746881
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 747519
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 748226
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 749679
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 750758
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 751546
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 752320
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 753560
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 754948
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 756364
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 756886
+senderp:not ready with rstate = 5, 757794
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 758571
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 759894
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 760643
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 761901
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 762945
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 764255
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 765514
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 766599
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 767590
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 768770
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 769616
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 770808
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 772228
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 772956
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 774270
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 775650
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 776779
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 777534
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 778995
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 780445
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 781361
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 782423
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 783514
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 784711
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 785294
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 786746
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 787744
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 789168
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 790100
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 790820
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 791806
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 792738
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 793499
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 794166
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 795019
+senderp:not ready with rstate = 5, 795541
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 796409
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 797503
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 798906
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 799895
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 800950
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 801754
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 803184
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 804320
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 805444
+senderp:not ready with rstate = 5, 806036
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 806774
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 807538
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 808411
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 809670
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 810795
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 811469
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 812569
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 813175
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 814570
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 815231
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 815838
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 817274
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 818616
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 819144
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 820340
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 820884
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 821658
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 822731
+senderp:not ready with rstate = 5, 823394
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 824126
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 825604
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 826708
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 827521
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 828320
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 829585
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 830999
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 832439
+senderp:not ready with rstate = 5, 832985
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 833920
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 834721
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 836068
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 836843
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 838126
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 839195
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 840530
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 841814
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 842924
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 843940
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 845145
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 846016
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 847233
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 848679
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 849431
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 850769
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 852176
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 853329
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 854108
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 855595
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 857070
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 858011
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 859098
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 860214
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 861436
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 862044
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 863521
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 864544
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 865993
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 866951
+senderp:not ready with rstate = 5, 867695
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 868705
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 869664
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 870449
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 871140
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 872019
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 872566
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 873459
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 874578
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 876006
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 877020
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 878100
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 878929
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 880384
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 881545
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 882695
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 883311
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 884073
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 884864
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 885761
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 887044
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 888195
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 888894
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 890019
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 890650
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 892070
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 892756
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 893388
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 894849
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 896216
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 896769
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 897991
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 898559
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 899353
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 900456
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 901145
+senderp:not ready with rstate = 5, 901900
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 902403
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 903534
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 904371
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 905194
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 906486
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 907924
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 909388
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 909961
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 910920
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 911745
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 913119
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 913919
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 915225
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 916320
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 917681
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 918988
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 920123
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 921166
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 922395
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 923290
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 924534
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 926004
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 926780
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 928145
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 929576
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 930753
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 931559
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 932071
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 933569
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 934536
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 935649
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 936788
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 938035
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 938670
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 939171
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 940218
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 941697
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 942676
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 943445
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 944480
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 945463
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 946274
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 946991
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 947894
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 948466
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 949384
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 950528
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 951981
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 953020
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 954125
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 954979
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 956459
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 957645
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 958820
+senderp:not ready with rstate = 5, 959461
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 960248
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 961063
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 961986
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 963295
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 964470
+senderp:not ready with rstate = 5, 965194
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 966344
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 967000
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 968445
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 969156
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 969813
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 971299
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 972691
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 973269
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 974516
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 975109
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 975928
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 977056
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 977770
+senderp:not ready with rstate = 5, 978550
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 979079
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 980234
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 981096
+senderp:not ready with rstate = 5, 981944
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 983261
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 984724
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 986213
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 986811
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 987795
+senderp:not ready with rstate = 5, 988645
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 990044
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 990869
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 992200
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 993320
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 994706
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 996038
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 997199
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 998266
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 999520
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1000440
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1001709
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1003204
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1004005
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1005395
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1006851
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1008053
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1008884
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1009421
+senderp:not ready with rstate = 5, 1009944
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1010936
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1012074
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1013238
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1014511
+senderp:not ready with rstate = 5, 1015170
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1015696
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1016768
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1017269
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1018276
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1019069
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1020131
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1021139
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1021973
+senderp:not ready with rstate = 5, 1022716
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1023645
+senderp:not ready with rstate = 5, 1024240
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1025184
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1026354
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1027830
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1028895
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1030026
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1030904
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1031408
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1032621
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1033822
+senderp:not ready with rstate = 5, 1034486
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1035299
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1036138
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1037086
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1038420
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1039621
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1040368
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1041544
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1042226
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1043694
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1044431
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1045114
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1045623
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1047041
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1047645
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1048915
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1049534
+senderp:not ready with rstate = 5, 1050379
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1051530
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1052270
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1053076
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1053629
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1054808
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1055696
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1056570
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1057913
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1059399
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1059914
+senderp:not ready with rstate = 5, 1060535
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1061545
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1062421
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1063843
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1064694
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1066051
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1067194
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1068605
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1069964
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1071149
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1072240
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1073520
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1074466
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1075758
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1076279
+senderp:not ready with rstate = 5, 1077106
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1078519
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1080001
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1081229
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1082083
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1082646
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1083195
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1084210
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1085373
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1086564
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1087861
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1088544
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1089096
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1090194
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1090718
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1091751
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1092570
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1093655
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1094689
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1095549
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1096315
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1097270
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1097891
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1098858
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1100053
+senderp:not ready with rstate = 5, 1100556
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1101645
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1102800
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1103704
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1104234
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1105470
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1106695
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1107386
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1108223
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1109089
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1110061
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1111419
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1112646
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1113419
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1114618
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1115325
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1116820
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1117581
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1118288
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1118824
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1120266
+senderp:not ready with rstate = 5, 1120894
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1122191
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1122834
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1123703
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1124881
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1125645
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1126475
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1127054
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1128259
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1129170
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1130070
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1131436
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1131949
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1132488
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1133136
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1134170
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1135070
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1136519
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1137394
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1138775
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1139945
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1141381
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1142763
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1143974
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1145091
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1146394
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1147366
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1148684
+senderp:not ready with rstate = 5, 1149229
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1150080
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1151520
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1152026
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1153278
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1154159
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1154746
+senderp:not ready with rstate = 5, 1155319
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1156361
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1157549
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1158763
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1160086
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1160795
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1161370
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1162494
+senderp:not ready with rstate = 5, 1163044
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1164101
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1164944
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1166056
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1167114
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1167998
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1168791
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1169770
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1170415
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1171409
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1172629
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1173155
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1174270
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1175451
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1176378
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1176934
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1178196
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1179445
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1180160
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1181024
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1181914
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1182910
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1184295
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1185546
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1186343
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1187569
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1188301
+senderp:not ready with rstate = 5, 1188819
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1189606
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1190339
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1190898
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1192366
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1193020
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1194341
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1195008
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1195904
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1197106
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1197894
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1198751
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1199354
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1200583
+senderp:not ready with rstate = 5, 1201521
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1202445
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1203835
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1204374
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1204939
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1205610
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1206670
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1207596
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1209068
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1209968
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1211376
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1212570
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1214030
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1215439
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1216674
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1217815
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1219145
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1220141
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1221483
+senderp:not ready with rstate = 5, 1222054
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1222931
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1224394
+senderp:not ready with rstate = 5, 1224926
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1226204
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1227108
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1227720
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1228320
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1229386
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1230598
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1231839
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1233186
+senderp:not ready with rstate = 5, 1233919
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1234521
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1235669
+senderp:not ready with rstate = 5, 1236243
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1237326
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1238195
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1239330
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1240414
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1241324
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1242140
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1243144
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1243816
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1244834
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1246078
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1246631
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1247770
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1248975
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1249929
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1250509
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1251795
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1253070
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1253811
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1254698
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1255614
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1256636
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1258044
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1259320
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1260144
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1261394
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1262150
+senderp:not ready with rstate = 5, 1262695
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1263506
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1264263
+senderp:not ready with rstate = 5, 1264849
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1266341
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1267019
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1268366
+senderp:not ready with rstate = 5, 1269059
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1269978
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1271206
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1272020
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1272900
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1273528
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1274784
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1275746
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1276696
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1278111
+senderp:not ready with rstate = 5, 1278673
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1279264
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1279961
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1281044
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1281996
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1283494
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1284418
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1285851
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1287070
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1288555
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1289988
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1291249
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1292416
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1293769
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1294791
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1296159
+senderp:not ready with rstate = 5, 1296753
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1297656
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1299145
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1299700
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1301004
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1301934
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1302570
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1303195
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1304286
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1305523
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1306788
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1308161
+senderp:not ready with rstate = 5, 1308920
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1309545
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1310719
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1311319
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1312425
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1313320
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1314481
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1315588
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1316524
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1317366
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1318394
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1319091
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1320134
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1321403
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1321980
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1323145
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1324376
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1325353
+senderp:not ready with rstate = 5, 1325959
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1327271
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1328569
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1329336
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1330249
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1331188
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1332236
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1333670
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1334970
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1335819
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1337094
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1337875
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1338444
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1339281
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1340064
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1340673
+senderp:not ready with rstate = 5, 1341191
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1341895
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1343265
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1343984
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1344929
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1346180
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1347020
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1347926
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1348578
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1349859
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1350846
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1351819
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1353260
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1353849
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1354464
+senderp:not ready with rstate = 5, 1355185
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1356295
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1357271
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1357793
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1358744
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1360201
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1361444
+senderp:not ready with rstate = 5, 1361956
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1363414
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1364698
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1365891
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1367270
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1368315
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1369708
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1370329
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1371256
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1371769
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1372351
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1373679
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1374633
+senderp:not ready with rstate = 5, 1375296
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1375945
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1377060
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1378324
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1379614
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1381010
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1381795
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1382446
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1383643
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1384268
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1385401
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1386320
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1387505
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1388639
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1389599
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1390465
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1391520
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1392241
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1393308
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1394604
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1395206
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1396394
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1397651
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1398654
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1399283
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1400620
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1401945
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1402736
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1403673
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1404639
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1405711
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1407169
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1408496
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1409369
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1410668
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1411476
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1412070
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1412930
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1413739
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1414374
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1414915
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1415644
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1417041
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1417784
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1418753
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1420031
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1420895
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1421825
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1422504
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1423809
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1424820
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1425820
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1427286
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1427898
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1428539
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1429286
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1430419
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1431421
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1431969
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1432943
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1434426
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1435695
+senderp:not ready with rstate = 5, 1436231
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1437713
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1439024
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1440241
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1441644
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1442716
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1444134
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1444778
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1445731
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1446270
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1446875
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1448229
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1449209
+senderp:not ready with rstate = 5, 1449895
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1450570
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1451711
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1452999
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1454313
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1455736
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1456545
+senderp:not ready with rstate = 5, 1457220
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1458444
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1459094
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1460250
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1461195
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1462406
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1463563
+senderp:not ready with rstate = 5, 1464549
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1465441
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1466519
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1467266
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1468359
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1469678
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1470306
+senderp:not ready with rstate = 5, 1471520
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1472800
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1473829
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1474484
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1475845
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1477195
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1478011
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1478975
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1479964
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1481061
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1482544
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1483901
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1484794
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1486118
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1486951
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1487570
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1488455
+senderp:not ready with rstate = 5, 1489289
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1489949
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1490515
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1491269
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1492691
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1493459
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1494453
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1495756
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1496645
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1497600
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1498304
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1499634
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1500670
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1501695
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1503186
+senderp:not ready with rstate = 5, 1503823
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1504489
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1505261
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1506419
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1507445
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1508019
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1509019
+senderp:not ready with rstate = 5, 1509525
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1510820
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1511381
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1511888
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1513224
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1514466
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1515894
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1516991
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1518434
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1519103
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1520081
+senderp:not ready with rstate = 5, 1520645
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+senderp:not ready with rstate = 5, 1521275
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1522653
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1523659
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1524371
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1525069
+Rcv BASE Beacon id 1
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1526236
+Rcv RENDEZ Beacon id 1
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1527549
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1528888
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1530336
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1531170
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1531870
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1533119
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1533794
+Rcv RENDEZ Beacon id 1
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 1
+inQuality = 99
+senderp:not ready with rstate = 5, 1534975
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1535945
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1537181
+Rcv RENDEZ Beacon id 1
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1538363
+Rcv BASE Beacon id 1
+senderp:not ready with rstate = 5, 1539373
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 1
+Rcv BASE Beacon id 3
+senderp:not ready with rstate = 5, 1540291
+Rcv BASE Beacon id 1
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 99
+senderp:not ready with rstate = 5, 1541395
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 1
+senderp:not ready with rstate = 5, 1542165
+Rcv BASE Beacon id 3

@@ -1,0 +1,1805 @@
+òPQ ç0ü4§ãcþóòPQ ç0üh§ãcþoÿc8àðCc8`0ÿòÊ3àhòPQ ç0ühòPQ ç0ü4c8àðCc8`0ÿòPQ ç0ü4òPQ ç0üh§ãcþkÿc8`ðCc8`0ÿòPQ ç0ü4§ãcþó=óÕ§;ÈþüÃòPQ ç0ühc8`ðCc8`0ÿòÊ3à4òPQ ç0ü4òPQ ç0ühc8`ðCc8`0ÿòÊ3àh§ãcþkÿòPQ ç0ü4§ãcþóòPQ ç0ühòÊ3à4=óÕ;ÈòCc8…4Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv BASE Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv BASE Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv BASE Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv BASE Beacon id 2
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 2
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+stopListen fail, error 5
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv BASE Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 2
+Rcv RENDEZ Beacon id 2
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+stopListen fail, error 5
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+stopListen fail, error 9
+Rcv BASE Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv BASE Beacon id 3
+inQuality = 100
+stopListen fail, error 9
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+stopListen fail, error 9
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 5
+Miss 2, 402177
+Rcv BASE Beacon id 2
+inQuality = 75
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 75 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 75 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 75 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 92
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 92 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 92 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+Rcv BASE Beacon id 3
+--id = 2 ,Lq = 92 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 97
+--id = 2 ,Lq = 97 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 97 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 9
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv BASE Beacon id 3
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 2
+Rcv BASE Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 2
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 2
+Rcv RENDEZ Beacon id 2
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+--id = 2 ,Lq = 99 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 3
+Miss 2, 503126
+Rcv BASE Beacon id 2
+inQuality = 75
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 2
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Rcv BASE Beacon id 2
+stopListen fail, error 9
+--id = 2 ,Lq = 75 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 510425
+inQuality = 68
+Miss 2, 511314
+--id = 2 ,Lq = 68 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 512270
+Miss 2, 512973
+inQuality = 20
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 20 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 20 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 521089
+--id = 2 ,Lq = 20 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 5
+stopListen fail, error 5
+Miss 2, 524198
+Rcv BASE Beacon id 3
+--id = 2 ,Lq = 20 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 527893
+inQuality = 6
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 6 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Miss 2, 533103
+--id = 2 ,Lq = 6 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 535945
+--id = 2 ,Lq = 6 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 539739
+inQuality = 1
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 1 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 545005
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 1 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 548463
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 1 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 5
+Miss 2, 553034
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Miss 2, 556835
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 561189
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 565615
+inQuality = 0
+Rcv BASE Beacon id 3
+inQuality = 100
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 569833
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 573763
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 577525
+inQuality = 0
+Miss 2, 580440
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 585025
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+stopListen fail, error 5
+Miss 2, 589003
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 592293
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 596015
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 599489
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 603235
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 607973
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 611623
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 615305
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 620339
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 624245
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Miss 2, 628743
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 632753
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 637395
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 641989
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 646055
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 650313
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+Miss 2, 653683
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+stopListen fail, error 9
+Miss 2, 657285
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Miss 2, 661439
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 665665
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 668683
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Miss 2, 672413
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 675975
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 680689
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+Miss 2, 685075
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 688853
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 692943
+Rcv RENDEZ Beacon id 3
+inQuality = 100
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Miss 2, 697465
+inQuality = 0
+Miss 3, 697472
+Rcv BASE Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 100 (2)
+Rcv BASE Beacon id 3
+inQuality = 76
+Miss 2, 701739
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 76 (2)
+Rcv BASE Beacon id 3
+Miss 2, 706285
+Rcv RENDEZ Beacon id 3
+inQuality = 92
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 92 (2)
+Miss 2, 710823
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 92 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 715273
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 92 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 97
+Miss 2, 719755
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 723589
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 728295
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 97 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 731593
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 735403
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Miss 2, 739847
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 744239
+Rcv RENDEZ Beacon id 3
+Miss 2, 747105
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 751163
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 754333
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 758735
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+Miss 2, 761689
+stopListen fail, error 5
+Rcv BASE Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 765715
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 770533
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 774063
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv BASE Beacon id 3
+Miss 2, 782939
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 787125
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 791703
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 796593
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 800915
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 804989
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 808335
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 811633
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 815923
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 820205
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 823839
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 827345
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 831443
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 835053
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 838295
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 842489
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 847155
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 9
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 855983
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 860185
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 864939
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 869765
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 874383
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 878713
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+stopListen fail, error 5
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 882875
+Rcv RENDEZ Beacon id 3
+Miss 2, 886189
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 890175
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Miss 2, 894556
+Rcv RENDEZ Beacon id 3
+Miss 2, 898243
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 902365
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 906239
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv BASE Beacon id 3
+Miss 2, 910385
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 913523
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 916573
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Miss 2, 920657
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 925089
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 929395
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv BASE Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 934293
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 938703
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 943745
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 947739
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Miss 2, 952205
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 9
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 959633
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 962635
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 967189
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 971815
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+inQuality = 99
+Miss 2, 975233
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 979363
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 983325
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 987439
+Rcv RENDEZ Beacon id 3
+Miss 2, 991225
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+stopListen fail, error 9
+Rcv BASE Beacon id 3
+Miss 2, 994404
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 998893
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1002815
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1007489
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1012435
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1017373
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1022223
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1025105
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+Miss 2, 1029342
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1032445
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1036143
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1039353
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1044195
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Rcv BASE Beacon id 3
+Miss 2, 1047989
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1051255
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1055713
+Rcv RENDEZ Beacon id 3
+Miss 2, 1059283
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1063085
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1066439
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1069865
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1074083
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1078013
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1082775
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1087689
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1091275
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1096253
+Rcv BASE Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Miss 2, 1099543
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1103265
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1106739
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1110485
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1114223
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Miss 2, 1117873
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1121555
+inQuality = 0
+Rcv BASE Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1125589
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Miss 2, 1129495
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1132993
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+Miss 2, 1137003
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1140645
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1147305
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1151563
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1156933
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1161535
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1165689
+Rcv RENDEZ Beacon id 3
+Rcv RENDEZ Beacon id 3
+Miss 2, 1168875
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1172933
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1176663
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1180225
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1183939
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1187325
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1191103
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Miss 2, 1195193
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1199715
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1202989
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1206535
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1210073
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1213523
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1218005
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1220839
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1225545
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+stopListen fail, error 9
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1235653
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1239095
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1242489
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1247355
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1250413
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1254583
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1257985
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1261939
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1265965
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1269783
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1274313
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1277675
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1281189
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1285375
+stopListen fail, error 5
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+Miss 2, 1288953
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1292843
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+Miss 2, 1296165
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1301239
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1306585
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1310923
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1315173
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1318455
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1323089
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1326595
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1330693
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1334303
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1338545
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1342739
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1346405
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1351263
+Miss 2, 1354233
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1357435
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1361189
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+stopListen fail, error 5
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1368633
+inQuality = 0
+Miss 2, 1371963
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1376125
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+Miss 2, 1381439
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1385425
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1392493
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1396615
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1400489
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1404635
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1408773
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1412823
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1416905
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1421339
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1425645
+Rcv RENDEZ Beacon id 3
+Miss 2, 1428543
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1431953
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+Miss 2, 1435995
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1439989
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 9
+Rcv RENDEZ Beacon id 3
+Miss 2, 1443455
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1447113
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1451883
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1456885
+inQuality = 0
+senderp:start radio task
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 9
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1460439
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1464065
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1468483
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+inQuality = 99
+Rcv RENDEZ Beacon id 3
+Miss 2, 1472613
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1476575
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1480689
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+Rcv BASE Beacon id 3
+inQuality = 99
+Miss 2, 1488653
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1493143
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+inQuality = 99
+Miss 2, 1498065
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1501739
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1504685
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1508623
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1512473
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+stopListen fail, error 5
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1520589
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+stopListen fail, error 5
+Miss 2, 1523698
+inQuality = 0
+Rcv BASE Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1527393
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1532603
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv RENDEZ Beacon id 3
+Miss 2, 1535445
+inQuality = 0
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1539239
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1544505
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Miss 2, 1547963
+inQuality = 0
+Rcv RENDEZ Beacon id 3
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+stopListen fail, error 5
+Miss 2, 1552534
+--id = 2 ,Lq = 0 (2)
+--id = 3 ,Lq = 99 (2)
+Rcv BASE Beacon id 3
+Rcv RENDEZ Beacon id 3
+inQuality = 99
+Miss 2, 1556335

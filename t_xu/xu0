@@ -1,0 +1,1410 @@
+senderp:not ready with rstate = 5, 23902
+LocalWakeup at 23902
+senderp:not ready with rstate = 5, 25008
+LocalWakeup at 25008
+senderp:not ready with rstate = 5, 25720
+LocalWakeup at 25720
+senderp:not ready with rstate = 5, 26579
+LocalWakeup at 26578
+senderp:not ready with rstate = 5, 27924
+LocalWakeup at 27924
+senderp:not ready with rstate = 5, 28897
+LocalWakeup at 28897
+senderp:not ready with rstate = 5, 29437
+LocalWakeup at 29437
+senderp:not ready with rstate = 5, 30284
+LocalWakeup at 30284
+senderp:not ready with rstate = 5, 30978
+LocalWakeup at 30978
+Insert node 12 offsetTime -22
+CheckTimer 4385
+LocalWakeup at 1203
+LocalWakeup at 2374
+CheckTimer 4385
+inQuality = 100
+CheckTimer 4384
+LocalWakeup at 3673
+CheckTimer 8343
+ListenTimer.fired()
+CheckTimer 8343
+-------------neig list info------------
+id = 12, inQuality = 100 
+--------------------------------------
+-------------neig param info------------
+id: 12, offsetTime: -22
+---------------------------------------
+CheckTimer 8343
+LocalWakeup at 5037
+LocalWakeup at 6209
+LocalWakeup at 6728
+LocalWakeup at 7934
+Listen SUCCESS 8350, neig 8343
+RENDEZ Beacon id 12 at 8375
+ListenTimer.fired()
+CheckTimer 12412
+LocalWakeup at 8968
+LocalWakeup at 9767
+LocalWakeup at 11074
+Listen SUCCESS 12419, neig 12412
+LocalWakeup at 12429
+RENDEZ Beacon id 12 at 12444
+inQuality = 100
+ListenTimer.fired()
+CheckTimer 15314
+LocalWakeup at 13169
+LocalWakeup at 14437
+LocalWakeup at 15172
+Listen SUCCESS 15321, neig 15314
+RENDEZ Beacon id 12 at 15347
+ListenTimer.fired()
+CheckTimer 19969
+LocalWakeup at 16114
+LocalWakeup at 16804
+LocalWakeup at 17579
+LocalWakeup at 18582
+Insert node 12 offsetTime 21
+CheckTimer 4385
+LocalWakeup at 1202
+CheckTimer 4384
+LocalWakeup at 2373
+inQuality = 100
+CheckTimer 4385
+LocalWakeup at 3672
+CheckTimer 8343
+ListenTimer.fired()
+CheckTimer 8343
+-------------neig list info------------
+id = 12, inQuality = 100 
+--------------------------------------
+-------------neig param info------------
+id: 12, offsetTime: 21
+---------------------------------------
+CheckTimer 8343
+LocalWakeup at 5036
+LocalWakeup at 6208
+LocalWakeup at 6728
+LocalWakeup at 7933
+Listen SUCCESS 8307, neig 8343
+RENDEZ Beacon id 12 at 8332
+ListenTimer.fired()
+CheckTimer 12413
+LocalWakeup at 8966
+LocalWakeup at 9766
+LocalWakeup at 11073
+Listen SUCCESS 12377, neig 12413
+RENDEZ Beacon id 12 at 12402
+inQuality = 100
+ListenTimer.fired()
+CheckTimer 15314
+senderp:start radio task
+BASE Beacon id 12 at 13036
+LocalWakeup at 13168
+LocalWakeup at 14436
+LocalWakeup at 15172
+Listen SUCCESS 15278, neig 15314
+RENDEZ Beacon id 12 at 15304
+ListenTimer.fired()
+CheckTimer 19969
+LocalWakeup at 16113
+LocalWakeup at 16802
+LocalWakeup at 17578
+LocalWakeup at 18581
+LocalWakeup at 19752
+Listen SUCCESS 19933, neig 19969
+RENDEZ Beacon id 12 at 19958
+inQuality = 100
+ListenTimer.fired()
+CheckTimer 24495
+LocalWakeup at 20828
+LocalWakeup at 21352
+LocalWakeup at 22664
+LocalWakeup at 23901
+Listen SUCCESS 24459, neig 24495
+RENDEZ Beacon id 12 at 24484
+ListenTimer.fired()
+CheckTimer 28213
+LocalWakeup at 25006
+LocalWakeup at 25718
+LocalWakeup at 26577
+LocalWakeup at 27924
+Listen SUCCESS 28177, neig 28213
+RENDEZ Beacon id 12 at 28202
+ListenTimer.fired()
+CheckTimer 31643
+LocalWakeup at 28896
+LocalWakeup at 29436
+LocalWakeup at 30284
+LocalWakeup at 30977
+Listen SUCCESS 31607, neig 31643
+RENDEZ Beacon id 12 at 31633
+inQuality = 100
+ListenTimer.fired()
+CheckTimer 35505
+LocalWakeup at 31858
+LocalWakeup at 33066
+LocalWakeup at 34541
+Listen SUCCESS 35469, neig 35505
+RENDEZ Beacon id 12 at 35494
+ListenTimer.fired()
+CheckTimer 39719
+LocalWakeup at 36024
+LocalWakeup at 37052
+LocalWakeup at 37968
+LocalWakeup at 38912
+Listen SUCCESS 39683, neig 39719
+RENDEZ Beacon id 12 at 39709
+ListenTimer.fired()
+CheckTimer 43406
+LocalWakeup at 39821
+LocalWakeup at 40438
+LocalWakeup at 41302
+LocalWakeup at 42753
+Listen SUCCESS 43370, neig 43406
+RENDEZ Beacon id 12 at 43394
+inQuality = 100
+ListenTimer.fired()
+CheckTimer 46883
+LocalWakeup at 43932
+LocalWakeup at 44776
+LocalWakeup at 46028
+Listen SUCCESS 46847, neig 46883
+RENDEZ Beacon id 12 at 46873
+ListenTimer.fired()
+CheckTimer 50674
+LocalWakeup at 47228
+LocalWakeup at 48713
+LocalWakeup at 49626
+Listen SUCCESS 50638, neig 50674
+RENDEZ Beacon id 12 at 50663
+ListenTimer.fired()
+CheckTimer 55495
+LocalWakeup at 50906
+LocalWakeup at 52293
+LocalWakeup at 53328
+LocalWakeup at 54348
+Listen SUCCESS 55459, neig 55495
+RENDEZ Beacon id 12 at 55485
+inQuality = 100
+LocalWakeup at 55496
+ListenTimer.fired()
+CheckTimer 59270
+LocalWakeup at 56712
+LocalWakeup at 57733
+LocalWakeup at 59102
+Listen SUCCESS 59234, neig 59270
+RENDEZ Beacon id 12 at 59259
+ListenTimer.fired()
+CheckTimer 63116
+LocalWakeup at 60158
+LocalWakeup at 61041
+LocalWakeup at 61692
+LocalWakeup at 62848
+Listen SUCCESS 63080, neig 63116
+RENDEZ Beacon id 12 at 63105
+ListenTimer.fired()
+CheckTimer 68354
+LocalWakeup at 64052
+LocalWakeup at 64644
+LocalWakeup at 65761
+LocalWakeup at 66346
+LocalWakeup at 67138
+LocalWakeup at 67677
+LocalWakeup at 68304
+Listen fail 68318, neig 68354
+ListenTimer.fired()
+CheckTimer 68981
+Listen SUCCESS 68945, neig 68981
+BASE Beacon id 12 at 68969
+inQuality = 100
+ListenTimer.fired()
+CheckTimer 72504
+LocalWakeup at 69156
+LocalWakeup at 70176
+LocalWakeup at 71104
+Listen SUCCESS 72468, neig 72504
+LocalWakeup at 72477
+ListenTimer.fired()
+Miss 12, 72516
+CheckTimer 73159
+Listen SUCCESS 73123, neig 73159
+BASE Beacon id 12 at 73147
+ListenTimer.fired()
+CheckTimer 76287
+LocalWakeup at 73638
+LocalWakeup at 74726
+LocalWakeup at 75681
+LocalWakeup at 76244
+Listen fail 76254, neig 76290
+ListenTimer.fired()
+CheckTimer 77650
+RENDEZ Beacon id 12 at 76275
+inQuality = 76
+LocalWakeup at 76952
+Listen SUCCESS 77614, neig 77650
+BASE Beacon id 12 at 77638
+ListenTimer.fired()
+CheckTimer 80620
+LocalWakeup at 78148
+LocalWakeup at 78972
+LocalWakeup at 80361
+Listen SUCCESS 80584, neig 80620
+RENDEZ Beacon id 12 at 80610
+ListenTimer.fired()
+CheckTimer 84627
+LocalWakeup at 81058
+LocalWakeup at 81602
+LocalWakeup at 82333
+LocalWakeup at 83392
+Listen SUCCESS 84591, neig 84627
+RENDEZ Beacon id 12 at 84616
+inQuality = 92
+ListenTimer.fired()
+CheckTimer 88624
+LocalWakeup at 84716
+LocalWakeup at 86048
+LocalWakeup at 86928
+LocalWakeup at 87693
+LocalWakeup at 88486
+Listen SUCCESS 88588, neig 88624
+RENDEZ Beacon id 12 at 88614
+ListenTimer.fired()
+CheckTimer 92135
+LocalWakeup at 89246
+LocalWakeup at 90713
+LocalWakeup at 91428
+Listen SUCCESS 92099, neig 92135
+RENDEZ Beacon id 12 at 92124
+ListenTimer.fired()
+CheckTimer 96877
+LocalWakeup at 92728
+LocalWakeup at 93756
+LocalWakeup at 94452
+LocalWakeup at 95553
+LocalWakeup at 96602
+Listen SUCCESS 96841, neig 96877
+RENDEZ Beacon id 12 at 96866
+inQuality = 97
+ListenTimer.fired()
+CheckTimer 101771
+LocalWakeup at 97938
+BASE Beacon id 12 at 97968
+LocalWakeup at 98701
+LocalWakeup at 99832
+LocalWakeup at 101068
+Listen SUCCESS 101735, neig 101771
+RENDEZ Beacon id 12 at 101760
+ListenTimer.fired()
+CheckTimer 104937
+LocalWakeup at 101952
+LocalWakeup at 102824
+LocalWakeup at 103821
+LocalWakeup at 104886
+Listen fail 104901, neig 104937
+ListenTimer.fired()
+CheckTimer 105496
+Listen SUCCESS 105460, neig 105496
+BASE Beacon id 12 at 105484
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 108696
+LocalWakeup at 105758
+LocalWakeup at 106977
+LocalWakeup at 107884
+LocalWakeup at 108616
+Listen SUCCESS 108660, neig 108696
+RENDEZ Beacon id 12 at 108684
+ListenTimer.fired()
+CheckTimer 111565
+LocalWakeup at 109116
+LocalWakeup at 110124
+LocalWakeup at 111177
+Listen SUCCESS 111529, neig 111565
+RENDEZ Beacon id 12 at 111555
+ListenTimer.fired()
+CheckTimer 116268
+LocalWakeup at 112618
+LocalWakeup at 113586
+LocalWakeup at 115021
+LocalWakeup at 115664
+Listen SUCCESS 116232, neig 116268
+RENDEZ Beacon id 12 at 116256
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 119721
+LocalWakeup at 117052
+LocalWakeup at 118528
+LocalWakeup at 119232
+Listen SUCCESS 119685, neig 119721
+RENDEZ Beacon id 12 at 119711
+ListenTimer.fired()
+CheckTimer 123048
+LocalWakeup at 120101
+LocalWakeup at 120878
+LocalWakeup at 122102
+Listen SUCCESS 123012, neig 123048
+RENDEZ Beacon id 12 at 123037
+ListenTimer.fired()
+CheckTimer 127565
+LocalWakeup at 123113
+LocalWakeup at 124052
+LocalWakeup at 124856
+LocalWakeup at 126268
+LocalWakeup at 126828
+Listen SUCCESS 127529, neig 127565
+RENDEZ Beacon id 12 at 127555
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 131796
+LocalWakeup at 127873
+LocalWakeup at 128546
+LocalWakeup at 129786
+LocalWakeup at 130333
+LocalWakeup at 131728
+Listen SUCCESS 131760, neig 131796
+RENDEZ Beacon id 12 at 131785
+ListenTimer.fired()
+CheckTimer 136458
+LocalWakeup at 132308
+LocalWakeup at 133216
+LocalWakeup at 134392
+LocalWakeup at 135573
+LocalWakeup at 136302
+Listen SUCCESS 136422, neig 136458
+RENDEZ Beacon id 12 at 136448
+ListenTimer.fired()
+CheckTimer 139472
+LocalWakeup at 136918
+LocalWakeup at 137561
+LocalWakeup at 138172
+Listen SUCCESS 139436, neig 139472
+RENDEZ Beacon id 12 at 139461
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 142958
+senderp:start radio task
+LocalWakeup at 140052
+LocalWakeup at 141204
+LocalWakeup at 142081
+LocalWakeup at 142626
+Listen SUCCESS 142922, neig 142958
+RENDEZ Beacon id 12 at 142948
+ListenTimer.fired()
+CheckTimer 146237
+LocalWakeup at 143578
+LocalWakeup at 144477
+LocalWakeup at 145664
+Listen SUCCESS 146201, neig 146237
+RENDEZ Beacon id 12 at 146225
+ListenTimer.fired()
+CheckTimer 150826
+LocalWakeup at 146276
+LocalWakeup at 147256
+LocalWakeup at 148344
+LocalWakeup at 149077
+LocalWakeup at 149798
+LocalWakeup at 150646
+Listen SUCCESS 150790, neig 150826
+RENDEZ Beacon id 12 at 150816
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 154449
+LocalWakeup at 151561
+LocalWakeup at 152284
+LocalWakeup at 153352
+LocalWakeup at 154108
+Listen SUCCESS 154413, neig 154449
+RENDEZ Beacon id 12 at 154438
+ListenTimer.fired()
+CheckTimer 159022
+LocalWakeup at 154692
+LocalWakeup at 156041
+LocalWakeup at 156898
+LocalWakeup at 157802
+Listen SUCCESS 158986, neig 159022
+RENDEZ Beacon id 12 at 159012
+ListenTimer.fired()
+CheckTimer 162669
+LocalWakeup at 159093
+LocalWakeup at 159912
+LocalWakeup at 161196
+Listen SUCCESS 162633, neig 162669
+RENDEZ Beacon id 12 at 162658
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 166707
+LocalWakeup at 162688
+LocalWakeup at 163928
+LocalWakeup at 165253
+LocalWakeup at 165806
+LocalWakeup at 166526
+Listen SUCCESS 166671, neig 166707
+RENDEZ Beacon id 12 at 166696
+ListenTimer.fired()
+CheckTimer 171657
+LocalWakeup at 167153
+LocalWakeup at 168228
+LocalWakeup at 169088
+LocalWakeup at 169876
+LocalWakeup at 170532
+Listen SUCCESS 171621, neig 171657
+RENDEZ Beacon id 12 at 171646
+ListenTimer.fired()
+CheckTimer 176239
+LocalWakeup at 171793
+LocalWakeup at 173202
+LocalWakeup at 174098
+LocalWakeup at 174621
+LocalWakeup at 175712
+Listen SUCCESS 176203, neig 176239
+RENDEZ Beacon id 12 at 176229
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 179373
+LocalWakeup at 177108
+LocalWakeup at 178352
+Listen SUCCESS 179337, neig 179373
+RENDEZ Beacon id 12 at 179362
+ListenTimer.fired()
+CheckTimer 183179
+LocalWakeup at 179784
+LocalWakeup at 180541
+LocalWakeup at 181566
+LocalWakeup at 182598
+Listen SUCCESS 183143, neig 183179
+RENDEZ Beacon id 12 at 183169
+LocalWakeup at 183177
+ListenTimer.fired()
+CheckTimer 186978
+LocalWakeup at 184644
+BASE Beacon id 12 at 184672
+inQuality = 99
+LocalWakeup at 186136
+Listen SUCCESS 186942, neig 186978
+RENDEZ Beacon id 12 at 186966
+ListenTimer.fired()
+CheckTimer 191287
+LocalWakeup at 187596
+LocalWakeup at 188764
+LocalWakeup at 190177
+LocalWakeup at 191178
+Listen SUCCESS 191251, neig 191287
+RENDEZ Beacon id 12 at 191277
+ListenTimer.fired()
+CheckTimer 194830
+LocalWakeup at 191906
+LocalWakeup at 193301
+LocalWakeup at 194104
+Listen SUCCESS 194794, neig 194830
+RENDEZ Beacon id 12 at 194819
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 198523
+LocalWakeup at 194852
+LocalWakeup at 195888
+LocalWakeup at 197352
+LocalWakeup at 198181
+Listen SUCCESS 198487, neig 198523
+ListenTimer.fired()
+Miss 12, 198536
+CheckTimer 199914
+LocalWakeup at 199118
+LocalWakeup at 199702
+Listen SUCCESS 199878, neig 199914
+ListenTimer.fired()
+Miss 12, 199927
+CheckTimer 200652
+LocalWakeup at 200273
+Listen SUCCESS 200617, neig 200653
+BASE Beacon id 12 at 200641
+inQuality = 52
+ListenTimer.fired()
+CheckTimer 203490
+LocalWakeup at 200972
+LocalWakeup at 201736
+LocalWakeup at 202308
+LocalWakeup at 203228
+Listen SUCCESS 203454, neig 203490
+ListenTimer.fired()
+Miss 12, 203503
+CheckTimer 204749
+LocalWakeup at 203833
+Listen SUCCESS 204713, neig 204749
+ListenTimer.fired()
+Miss 12, 204762
+CheckTimer 205675
+LocalWakeup at 205266
+Listen SUCCESS 205640, neig 205676
+ListenTimer.fired()
+Miss 12, 205689
+inQuality = 15
+CheckTimer 206348
+Listen SUCCESS 206312, neig 206348
+BASE Beacon id 12 at 206336
+ListenTimer.fired()
+CheckTimer 207048
+LocalWakeup at 206466
+Listen SUCCESS 207012, neig 207048
+RENDEZ Beacon id 12 at 207037
+ListenTimer.fired()
+CheckTimer 211718
+LocalWakeup at 207173
+LocalWakeup at 207928
+LocalWakeup at 209068
+LocalWakeup at 209736
+LocalWakeup at 210872
+Listen SUCCESS 211682, neig 211718
+ListenTimer.fired()
+Miss 12, 211731
+inQuality = 50
+CheckTimer 212753
+LocalWakeup at 212213
+Listen SUCCESS 212717, neig 212753
+ListenTimer.fired()
+Miss 12, 212766
+CheckTimer 213695
+LocalWakeup at 213302
+Listen SUCCESS 213660, neig 213696
+BASE Beacon id 12 at 213684
+ListenTimer.fired()
+CheckTimer 215221
+LocalWakeup at 214478
+Listen SUCCESS 215185, neig 215221
+ListenTimer.fired()
+Miss 12, 215234
+inQuality = 38
+CheckTimer 215764
+Listen SUCCESS 215728, neig 215764
+ListenTimer.fired()
+Miss 12, 215777
+CheckTimer 217134
+LocalWakeup at 215881
+LocalWakeup at 216452
+Listen SUCCESS 217099, neig 217135
+BASE Beacon id 12 at 217121
+ListenTimer.fired()
+CheckTimer 218474
+LocalWakeup at 217928
+Listen SUCCESS 218438, neig 218474
+RENDEZ Beacon id 12 at 218463
+inQuality = 57
+ListenTimer.fired()
+CheckTimer 222600
+LocalWakeup at 218852
+LocalWakeup at 219564
+LocalWakeup at 220201
+LocalWakeup at 220706
+LocalWakeup at 221818
+Listen SUCCESS 222564, neig 222600
+RENDEZ Beacon id 12 at 222590
+ListenTimer.fired()
+CheckTimer 226919
+LocalWakeup at 223077
+LocalWakeup at 223824
+LocalWakeup at 225196
+LocalWakeup at 226136
+Listen SUCCESS 226883, neig 226919
+RENDEZ Beacon id 12 at 226908
+ListenTimer.fired()
+CheckTimer 230948
+LocalWakeup at 227384
+LocalWakeup at 228477
+LocalWakeup at 229758
+LocalWakeup at 230366
+Listen SUCCESS 230912, neig 230948
+ListenTimer.fired()
+Miss 12, 230961
+inQuality = 63
+CheckTimer 232323
+LocalWakeup at 231241
+LocalWakeup at 232124
+Listen SUCCESS 232287, neig 232323
+BASE Beacon id 12 at 232311
+ListenTimer.fired()
+CheckTimer 235411
+LocalWakeup at 233552
+LocalWakeup at 234868
+Listen SUCCESS 235375, neig 235411
+RENDEZ Beacon id 12 at 235400
+ListenTimer.fired()
+CheckTimer 239225
+LocalWakeup at 236212
+LocalWakeup at 237521
+LocalWakeup at 238538
+Listen SUCCESS 239189, neig 239225
+RENDEZ Beacon id 12 at 239214
+inQuality = 88
+ListenTimer.fired()
+CheckTimer 243511
+LocalWakeup at 239802
+LocalWakeup at 240653
+LocalWakeup at 241232
+LocalWakeup at 242476
+LocalWakeup at 243128
+Listen SUCCESS 243475, neig 243511
+ListenTimer.fired()
+Miss 12, 243524
+CheckTimer 244850
+LocalWakeup at 243728
+LocalWakeup at 244613
+Listen SUCCESS 244815, neig 244851
+BASE Beacon id 12 at 244838
+ListenTimer.fired()
+CheckTimer 248589
+LocalWakeup at 245926
+LocalWakeup at 246606
+LocalWakeup at 247393
+Listen SUCCESS 248553, neig 248589
+RENDEZ Beacon id 12 at 248579
+inQuality = 72
+ListenTimer.fired()
+CheckTimer 252979
+LocalWakeup at 248828
+LocalWakeup at 250248
+LocalWakeup at 250796
+LocalWakeup at 251412
+LocalWakeup at 252833
+Listen SUCCESS 252943, neig 252979
+RENDEZ Beacon id 12 at 252968
+ListenTimer.fired()
+CheckTimer 256401
+LocalWakeup at 253602
+LocalWakeup at 255058
+LocalWakeup at 256341
+Listen fail 256365, neig 256401
+ListenTimer.fired()
+CheckTimer 257424
+Listen SUCCESS 257388, neig 257424
+BASE Beacon id 12 at 257412
+ListenTimer.fired()
+CheckTimer 259776
+senderp:not ready with rstate = 2, 257948
+LocalWakeup at 257948
+LocalWakeup at 258552
+LocalWakeup at 259544
+Listen SUCCESS 259740, neig 259776
+RENDEZ Beacon id 12 at 259764
+inQuality = 91
+ListenTimer.fired()
+CheckTimer 264221
+LocalWakeup at 260061
+LocalWakeup at 261046
+LocalWakeup at 262239
+LocalWakeup at 263177
+Listen SUCCESS 264185, neig 264221
+LocalWakeup at 264203
+ListenTimer.fired()
+Miss 12, 264234
+CheckTimer 265100
+Listen SUCCESS 265064, neig 265100
+BASE Beacon id 12 at 265088
+ListenTimer.fired()
+CheckTimer 268060
+LocalWakeup at 265456
+LocalWakeup at 266876
+Listen SUCCESS 268024, neig 268060
+RENDEZ Beacon id 12 at 268049
+inQuality = 73
+ListenTimer.fired()
+CheckTimer 271809
+LocalWakeup at 268204
+LocalWakeup at 268977
+LocalWakeup at 269538
+LocalWakeup at 271027
+Listen SUCCESS 271773, neig 271809
+RENDEZ Beacon id 12 at 271799
+ListenTimer.fired()
+CheckTimer 276192
+LocalWakeup at 272381
+LocalWakeup at 273343
+LocalWakeup at 274452
+LocalWakeup at 275048
+Listen SUCCESS 276156, neig 276192
+RENDEZ Beacon id 12 at 276181
+ListenTimer.fired()
+CheckTimer 281126
+LocalWakeup at 276272
+LocalWakeup at 277061
+LocalWakeup at 278158
+LocalWakeup at 279103
+LocalWakeup at 280233
+Listen SUCCESS 281090, neig 281126
+RENDEZ Beacon id 12 at 281116
+inQuality = 91
+ListenTimer.fired()
+CheckTimer 284732
+LocalWakeup at 281691
+LocalWakeup at 282416
+LocalWakeup at 283148
+LocalWakeup at 284428
+Listen SUCCESS 284696, neig 284732
+RENDEZ Beacon id 12 at 284721
+ListenTimer.fired()
+CheckTimer 289330
+LocalWakeup at 285593
+LocalWakeup at 286786
+LocalWakeup at 287947
+LocalWakeup at 288813
+Listen SUCCESS 289294, neig 289330
+RENDEZ Beacon id 12 at 289320
+ListenTimer.fired()
+CheckTimer 292441
+LocalWakeup at 289927
+LocalWakeup at 290628
+LocalWakeup at 292056
+Listen SUCCESS 292405, neig 292441
+RENDEZ Beacon id 12 at 292429
+inQuality = 97
+ListenTimer.fired()
+CheckTimer 295782
+LocalWakeup at 293152
+LocalWakeup at 293653
+LocalWakeup at 295102
+Listen SUCCESS 295746, neig 295782
+RENDEZ Beacon id 12 at 295772
+ListenTimer.fired()
+CheckTimer 299277
+LocalWakeup at 295839
+LocalWakeup at 297001
+LocalWakeup at 297531
+LocalWakeup at 298168
+Listen SUCCESS 299241, neig 299277
+RENDEZ Beacon id 12 at 299266
+ListenTimer.fired()
+CheckTimer 304042
+LocalWakeup at 299452
+LocalWakeup at 300724
+LocalWakeup at 302121
+LocalWakeup at 303586
+Listen SUCCESS 304006, neig 304042
+ListenTimer.fired()
+Miss 12, 304055
+inQuality = 75
+CheckTimer 305001
+LocalWakeup at 304859
+Listen SUCCESS 304965, neig 305001
+BASE Beacon id 12 at 304989
+ListenTimer.fired()
+CheckTimer 308401
+LocalWakeup at 305477
+LocalWakeup at 306783
+LocalWakeup at 307916
+Listen SUCCESS 308365, neig 308401
+RENDEZ Beacon id 12 at 308390
+ListenTimer.fired()
+CheckTimer 312871
+LocalWakeup at 308816
+LocalWakeup at 310224
+LocalWakeup at 311677
+LocalWakeup at 312518
+Listen SUCCESS 312835, neig 312871
+RENDEZ Beacon id 12 at 312860
+inQuality = 92
+ListenTimer.fired()
+CheckTimer 316173
+LocalWakeup at 313887
+LocalWakeup at 314721
+LocalWakeup at 315763
+Listen SUCCESS 316137, neig 316173
+ListenTimer.fired()
+Miss 12, 316186
+CheckTimer 317416
+LocalWakeup at 316552
+Listen SUCCESS 317380, neig 317416
+BASE Beacon id 12 at 317404
+ListenTimer.fired()
+CheckTimer LocalWakeup at 317428
+321227
+LocalWakeup at 318532
+LocalWakeup at 319801
+LocalWakeup at 320978
+Listen SUCCESS 321191, neig 321227
+RENDEZ Beacon id 12 at 321217
+inQuality = 73
+ListenTimer.fired()
+CheckTimer 326153
+LocalWakeup at 321603
+LocalWakeup at 323013
+LocalWakeup at 324351
+LocalWakeup at 325556
+Listen SUCCESS 326117, neig 326153
+ListenTimer.fired()
+Miss 12, 326166
+CheckTimer 327652
+LocalWakeup at 326368
+LocalWakeup at 327328
+Listen SUCCESS 327617, neig 327653
+BASE Beacon id 12 at 327641
+ListenTimer.fired()
+CheckTimer 330271
+LocalWakeup at 328773
+LocalWakeup at 329846
+Listen SUCCESS 330235, neig 330271
+RENDEZ Beacon id 12 at 330261
+inQuality = 68
+ListenTimer.fired()
+CheckTimer 334102
+LocalWakeup at 330487
+LocalWakeup at 331433
+LocalWakeup at 332227
+LocalWakeup at 333208
+Listen SUCCESS 334066, neig 334102
+RENDEZ Beacon id 12 at 334091
+ListenTimer.fired()
+CheckTimer 337363
+LocalWakeup at 334516
+LocalWakeup at 335092
+LocalWakeup at 335673
+LocalWakeup at 336802
+Listen SUCCESS 337327, neig 337363
+RENDEZ Beacon id 12 at 337353
+ListenTimer.fired()
+CheckTimer 341978
+LocalWakeup at 337819
+LocalWakeup at 338861
+LocalWakeup at 339871
+LocalWakeup at 340588
+LocalWakeup at 341552
+Listen SUCCESS 341942, neig 341978
+RENDEZ Beacon id 12 at 341967
+inQuality = 90
+ListenTimer.fired()
+CheckTimer 346064
+LocalWakeup at 342104
+LocalWakeup at 343381
+LocalWakeup at 344326
+LocalWakeup at 345679
+Listen SUCCESS 346028, neig 346064
+RENDEZ Beacon id 12 at 346053
+ListenTimer.fired()
+CheckTimer 349942
+LocalWakeup at 346977
+LocalWakeup at 347563
+LocalWakeup at 348576
+Listen SUCCESS 349906, neig 349942
+RENDEZ Beacon id 12 at 349931
+ListenTimer.fired()
+CheckTimer 354132
+senderp:start radio task
+BASE Beacon id 12 at 350717
+inQuality = 97
+LocalWakeup at 351444
+LocalWakeup at 352577
+LocalWakeup at 353698
+Listen SUCCESS 354096, neig 354132
+RENDEZ Beacon id 12 at 354122
+ListenTimer.fired()
+CheckTimer 358354
+LocalWakeup at 354947
+LocalWakeup at 356261
+LocalWakeup at 357383
+Listen SUCCESS 358318, neig 358354
+RENDEZ Beacon id 12 at 358343
+ListenTimer.fired()
+CheckTimer 362528
+LocalWakeup at 358852
+LocalWakeup at 360008
+LocalWakeup at 360992
+LocalWakeup at 361741
+Listen SUCCESS 362492, neig 362528
+RENDEZ Beacon id 12 at 362518
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 365774
+LocalWakeup at 362998
+BASE Beacon id 12 at 363027
+LocalWakeup at 364303
+LocalWakeup at 364993
+Listen SUCCESS 365738, neig 365774
+RENDEZ Beacon id 12 at 365763
+ListenTimer.fired()
+CheckTimer 369412
+LocalWakeup at 366211
+LocalWakeup at 366896
+LocalWakeup at 367788
+LocalWakeup at 368428
+LocalWakeup at 369153
+Listen SUCCESS 369376, neig 369412
+RENDEZ Beacon id 12 at 369402
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 371963
+LocalWakeup at 370106
+BASE Beacon id 12 at 370127
+LocalWakeup at 371227
+Listen SUCCESS 371927, neig 371963
+RENDEZ Beacon id 12 at 371952
+ListenTimer.fired()
+CheckTimer 376144
+LocalWakeup at 372253
+LocalWakeup at 373727
+LocalWakeup at 374988
+BASE Beacon id 12 at 375017
+inQuality = 99
+Listen SUCCESS 376108, neig 376144
+RENDEZ Beacon id 12 at 376134
+ListenTimer.fired()
+CheckTimer 380879
+LocalWakeup at 376176
+LocalWakeup at 377232
+LocalWakeup at 377893
+LocalWakeup at 378702
+LocalWakeup at 379999
+Listen SUCCESS 380843, neig 380879
+RENDEZ Beacon id 12 at 380868
+ListenTimer.fired()
+CheckTimer 385285
+LocalWakeup at 380921
+LocalWakeup at 382411
+LocalWakeup at 383208
+LocalWakeup at 383852
+LocalWakeup at 384684
+Listen SUCCESS 385249, neig 385285
+RENDEZ Beacon id 12 at 385274
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 389683
+LocalWakeup at 385841
+LocalWakeup at 387266
+LocalWakeup at 388699
+Listen SUCCESS 389647, neig 389683
+RENDEZ Beacon id 12 at 389672
+LocalWakeup at 389677
+ListenTimer.fired()
+CheckTimer 393593
+LocalWakeup at 390543
+LocalWakeup at 391436
+LocalWakeup at 392296
+BASE Beacon id 12 at 392313
+LocalWakeup at 392864
+Listen SUCCESS 393557, neig 393593
+RENDEZ Beacon id 12 at 393583
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 398735
+LocalWakeup at 393677
+LocalWakeup at 395078
+LocalWakeup at 396207
+LocalWakeup at 397001
+LocalWakeup at 398203
+Listen SUCCESS 398699, neig 398735
+RENDEZ Beacon id 12 at 398724
+ListenTimer.fired()
+CheckTimer 403029
+LocalWakeup at 399352
+LocalWakeup at 400788
+LocalWakeup at 401652
+LocalWakeup at 402881
+Listen SUCCESS 402993, neig 403029
+RENDEZ Beacon id 12 at 403019
+ListenTimer.fired()
+CheckTimer 406596
+LocalWakeup at 404218
+LocalWakeup at 405203
+LocalWakeup at 406173
+Listen SUCCESS 406560, neig 406596
+RENDEZ Beacon id 12 at 406585
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 410753
+LocalWakeup at 407271
+LocalWakeup at 408436
+LocalWakeup at 409408
+Listen SUCCESS 410717, neig 410753
+LocalWakeup at 410728
+RENDEZ Beacon id 12 at 410743
+ListenTimer.fired()
+CheckTimer 414024
+LocalWakeup at 411733
+LocalWakeup at 412566
+LocalWakeup at 413167
+Listen SUCCESS 413988, neig 414024
+RENDEZ Beacon id 12 at 414013
+ListenTimer.fired()
+CheckTimer 419126
+LocalWakeup at 414273
+LocalWakeup at 415427
+BASE Beacon id 12 at 415447
+inQuality = 99
+LocalWakeup at 415968
+LocalWakeup at 417036
+LocalWakeup at 417572
+LocalWakeup at 418313
+Listen SUCCESS 419090, neig 419126
+RENDEZ Beacon id 12 at 419115
+ListenTimer.fired()
+CheckTimer 422980
+LocalWakeup at 419802
+LocalWakeup at 420379
+LocalWakeup at 421181
+LocalWakeup at 422151
+Listen SUCCESS 422944, neig 422980
+RENDEZ Beacon id 12 at 422969
+ListenTimer.fired()
+CheckTimer 426706
+LocalWakeup at 423028
+LocalWakeup at 424352
+LocalWakeup at 425464
+LocalWakeup at 426501
+Listen SUCCESS 426670, neig 426706
+RENDEZ Beacon id 12 at 426696
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 431624
+LocalWakeup at 427406
+LocalWakeup at 427919
+LocalWakeup at 428577
+LocalWakeup at 429723
+LocalWakeup at 430496
+Listen SUCCESS 431588, neig 431624
+RENDEZ Beacon id 12 at 431613
+ListenTimer.fired()
+CheckTimer 435254
+LocalWakeup at 431836
+LocalWakeup at 432484
+LocalWakeup at 433977
+LocalWakeup at 434658
+Listen SUCCESS 435218, neig 435254
+RENDEZ Beacon id 12 at 435244
+ListenTimer.fired()
+CheckTimer 439317
+LocalWakeup at 435667
+LocalWakeup at 436941
+LocalWakeup at 438223
+LocalWakeup at 439052
+Listen SUCCESS 439281, neig 439317
+RENDEZ Beacon id 12 at 439305
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 442730
+LocalWakeup at 439768
+LocalWakeup at 440512
+LocalWakeup at 441221
+LocalWakeup at 442638
+Listen SUCCESS 442694, neig 442730
+RENDEZ Beacon id 12 at 442720
+ListenTimer.fired()
+CheckTimer 446617
+LocalWakeup at 443303
+LocalWakeup at 444553
+LocalWakeup at 445531
+LocalWakeup at 446176
+Listen SUCCESS 446581, neig 446617
+RENDEZ Beacon id 12 at 446606
+ListenTimer.fired()
+CheckTimer 449295
+LocalWakeup at 447228
+LocalWakeup at 448228
+Listen SUCCESS 449259, neig 449295
+RENDEZ Beacon id 12 at 449284
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 454285
+LocalWakeup at 449513
+LocalWakeup at 450226
+LocalWakeup at 451307
+LocalWakeup at 452493
+LocalWakeup at 453327
+LocalWakeup at 454148
+Listen SUCCESS 454249, neig 454285
+RENDEZ Beacon id 12 at 454274
+ListenTimer.fired()
+CheckTimer 458307
+LocalWakeup at 455096
+LocalWakeup at 456112
+LocalWakeup at 456933
+LocalWakeup at 458102
+Listen SUCCESS 458271, neig 458307
+RENDEZ Beacon id 12 at 458296
+ListenTimer.fired()
+CheckTimer 463281
+LocalWakeup at 458959
+LocalWakeup at 459641
+LocalWakeup at 461091
+LocalWakeup at 462048
+LocalWakeup at 463052
+Listen SUCCESS 463245, neig 463281
+RENDEZ Beacon id 12 at 463270
+inQuality = 99
+ListenTimer.fired()
+CheckTimer 467327
+LocalWakeup at 464444
+LocalWakeup at 465361
+LocalWakeup at 466746
+Listen SUCCESS 467291, neig 467327
+RENDEZ Beacon id 12 at 467317
+ListenTimer.fired()
+CheckTimeLocalWakeup at 467339
+senderp:not ready with rstate = 5, 468677
+LocalWakeup at 468677
+senderp:not ready with rstate = 5, 470103
+LocalWakeup at 470103
+senderp:not ready with rstate = 5, 470757
+LocalWakeup at 470757
+senderp:not ready with rstate = 5, 471576
+LocalWakeup at 471576
+senderp:not ready with rstate = 5, 472303
+LocalWakeup at 472303
+senderp:not ready with rstate = 5, 473477
+LocalWakeup at 473477
+senderp:not ready with rstate = 5, 474439
+LocalWakeup at 474439
+senderp:not ready with rstate = 5, 475326
+LocalWakeup at 475326
+senderp:not ready with rstate = 5, 476081
+LocalWakeup at 476081
+senderp:not ready with rstate = 5, 477443
+LocalWakeup at 477443
+senderp:not ready with rstate = 5, 477953
+LocalWakeup at 477953
+senderp:not ready with rstate = 5, 478948
+LocalWakeup at 478948
+senderp:not ready with rstate = 5, 479571
+LocalWakeup at 479571
+senderp:not ready with rstate = 5, 480761
+LocalWakeup at 480761
+senderp:not ready with rstate = 5, 482259
+LocalWakeup at 482259
+senderp:not ready with rstate = 5, 483602
+LocalWakeup at 483602
+senderp:not ready with rstate = 5, 484133
+LocalWakeup at 484133
+senderp:not ready with rstate = 5, 484991
+LocalWakeup at 484991
+senderp:not ready with rstate = 5, 486117
+LocalWakeup at 486117
+senderp:not ready with rstate = 5, 487248
+LocalWakeup at 487248
+senderp:not ready with rstate = 5, 487927
+LocalWakeup at 487927
+senderp:not ready with rstate = 5, 488494
+LocalWakeup at 488494
+senderp:not ready with rstate = 5, 489086
+LocalWakeup at 489086
+senderp:not ready with rstate = 5, 489646
+LocalWakeup at 489646
+senderp:not ready with rstate = 5, 490913
+LocalWakeup at 490913
+senderp:not ready with rstate = 5, 491428
+LocalWakeup at 491428
+senderp:not ready with rstate = 5, 492528
+LocalWakeup at 492528
+senderp:not ready with rstate = 5, 493356
+LocalWakeup at 493356
+senderp:not ready with rstate = 5, 494851
+LocalWakeup at 494851
+senderp:not ready with rstate = 5, 495754
+LocalWakeup at 495754
+senderp:not ready with rstate = 5, 496602
+LocalWakeup at 496602
+senderp:not ready with rstate = 5, 497738
+LocalWakeup at 497738
+senderp:not ready with rstate = 5, 498302
+LocalWakeup at 498302
+senderp:not ready with rstate = 5, 499231
+LocalWakeup at 499231
+senderp:not ready with rstate = 5, 500268
+LocalWakeup at 500268
+senderp:not ready with rstate = 5, 500952
+LocalWakeup at 500952
+senderp:not ready with rstate = 5, 501624
+LocalWakeup at 501624
+senderp:not ready with rstate = 5, 502421
+LocalWakeup at 502421
+senderp:not ready with rstate = 5, 503286
+LocalWakeup at 503286
+senderp:not ready with rstate = 5, 503959
+LocalWakeup at 503959
+senderp:not ready with rstate = 5, 504977
+LocalWakeup at 504977
+senderp:not ready with rstate = 5, 505683
+LocalWakeup at 505683
+senderp:not ready with rstate = 5, 506216
+LocalWakeup at 506216
+senderp:not ready with rstate = 5, 507517
+LocalWakeup at 507517
+senderp:not ready with rstate = 5, 508323
+LocalWakeup at 508323
+senderp:not ready with rstate = 5, 509177
+LocalWakeup at 509177
+senderp:not ready with rstate = 5, 510419
+LocalWakeup at 510418
+senderp:not ready with rstate = 5, 511187
+LocalWakeup at 511187
+senderp:not ready with rstate = 5, 512421
+LocalWakeup at 512421
+senderp:not ready with rstate = 5, 513863
+LocalWakeup at 513863
+senderp:not ready with rstate = 5, 515053
+LocalWakeup at 515053
+senderp:not ready with rstate = 5, 516328
+LocalWakeup at 516328
+senderp:not ready with rstate = 5, 516831
+LocalWakeup at 516831
+senderp:not ready with rstate = 5, 517501
+LocalWakeup at 517501
+senderp:not ready with rstate = 5, 518079
+LocalWakeup at 518079
+senderp:not ready with rstate = 5, 519102
+LocalWakeup at 519102
+senderp:not ready with rstate = 5, 519913
+LocalWakeup at 519913
+senderp:not ready with rstate = 5, 520652
+LocalWakeup at 520652
+senderp:not ready with rstate = 5, 521256
+LocalWakeup at 521256
+senderp:not ready with rstate = 5, 522468
+LocalWakeup at 522468
+senderp:not ready with rstate = 5, 523827
+LocalWakeup at 523827
+senderp:not ready with rstate = 5, 524674
+LocalWakeup at 524674
+senderp:not ready with rstate = 5, 526146
+LocalWakeup at 526146
+senderp:not ready with rstate = 5, 527186
+LocalWakeup at 527186
+senderp:not ready with rstate = 5, 528534
+LocalWakeup at 528534
+senderp:not ready with rstate = 5, 529727
+LocalWakeup at 529727
+senderp:not ready with rstate = 5, 531108
+LocalWakeup at 531108
+senderp:not ready with rstate = 5, 531816
+LocalWakeup at 531816
+senderp:not ready with rstate = 5, 532792
+LocalWakeup at 532792
+senderp:not ready with rstate = 5, 533773
+LocalWakeup at 533773
+senderp:not ready with rstate = 5, 534302
+LocalWakeup at 534302
+senderp:not ready with rstate = 5, 535719
+LocalWakeup at 535718
+senderp:not ready with rstate = 5, 537162
+LocalWakeup at 537162
+senderp:not ready with rstate = 5, 538571
+LocalWakeup at 538571
+senderp:not ready with rstate = 5, 539688
+LocalWakeup at 539688
+senderp:not ready with rstate = 5, 541053
+LocalWakeup at 541053
+senderp:not ready with rstate = 5, 542003
+LocalWakeup at 542003
+senderp:not ready with rstate = 5, 542681
+LocalWakeup at 542681
+senderp:not ready with rstate = 5, 544026
+LocalWakeup at 544026
+senderp:not ready with rstate = 5, 544779
+LocalWakeup at 544779
+senderp:not ready with rstate = 5, 545477
+LocalWakeup at 545477
+senderp:not ready with rstate = 5, 546463
+LocalWakeup at 546463
+senderp:not ready with rstate = 5, 547877
+LocalWakeup at 547877
+senderp:not ready with rstate = 5, 548656
+LocalWakeup at 548656
+senderp:not ready with rstate = 5, 549543
+LocalWakeup at 549543
+senderp:not ready with rstate = 5, 550077
+LocalWakeup at 550077
+senderp:not ready with rstate = 5, 550599
+LocalWakeup at 550599
+senderp:not ready with rstate = 5, 551246
+LocalWakeup at 551246
+senderp:not ready with rstate = 5, 551961
+LocalWakeup at 551961
+senderp:not ready with rstate = 5, 552484
+LocalWakeup at 552484
+senderp:not ready with rstate = 5, 553352
+LocalWakeup at 553352
+senderp:not ready with rstate = 5, 553908
+LocalWakeup at 553908
+senderp:not ready with rstate = 5, 555291
+LocalWakeup at 555291
+senderp:not ready with rstate = 5, 556442
+LocalWakeup at 556442
+senderp:not ready with rstate = 5, 557098
+LocalWakeup at 557098
+senderp:not ready with rstate = 5, 557802
+LocalWakeup at 557802
+senderp:not ready with rstate = 5, 558894
+LocalWakeup at 558894
+senderp:not ready with rstate = 5, 559511
+LocalWakeup at 559511
+senderp:not ready with rstate = 5, 560596
+LocalWakeup at 560596
+senderp:not ready with rstate = 5, 561888
+LocalWakeup at 561888
+senderp:not ready with rstate = 5, 562928
+LocalWakeup at 562928
+senderp:not ready with rstate = 5, 564053
+LocalWakeup at 564053
+senderp:not ready with rstate = 5, 565406
+LocalWakeup at 565406
+senderp:not ready with rstate = 5, 565927
+LocalWakeup at 565926
+senderp:not ready with rstate = 5, 567353
+LocalWakeup at 567353
+senderp:not ready with rstate = 5, 568227
+LocalWakeup at 568227
+senderp:not ready with rstate = 5, 568888
+LocalWakeup at 568888
+senderp:not ready with rstate = 5, 569477
+LocalWakeup at 569477
+senderp:not ready with rstate = 5, 570931
+LocalWakeup at 570931
+senderp:not ready with rstate = 5, 571993
+LocalWakeup at 571993
+senderp:not ready with rstate = 5, 573203
+LocalWakeup at 573202
+senderp:not ready with rstate = 5, 573898
+LocalWakeup at 573898
+senderp:not ready with rstate = 5, 575221
+LocalWakeup at 575221
+senderp:not ready with rstate = 5, 576111
+LocalWakeup at 576111
+senderp:not ready with rstate = 5, 577309
+LocalWakeup at 577309
+senderp:not ready with rstate = 5, 578352
+LocalWakeup at 578352
+senderp:not ready with rstate = 5, 579583
+LocalWakeup at 579583
+senderp:not ready with rstate = 5, 580142
+LocalWakeup at 580142
+senderp:not ready with rstate = 5, 580966
+LocalWakeup at 580966
+senderp:not ready with rstate = 5, 581798
+LocalWakeup at 581798
+senderp:not ready with rstate = 5, 583177
+LocalWakeup at 583177
+senderp:not ready with rstate = 5, 584444
+LocalWakeup at 584444
+senderp:not ready with rstate = 5, 585736
+LocalWakeup at 585736
+senderp:not ready with rstate = 5, 586996
+LocalWakeup at 586996
+senderp:not ready with rstate = 5, 587964
+LocalWakeup at 587964
+senderp:not ready with rstate = 5, 589177
+LocalWakeup at 589177
+senderp:not ready with rstate = 5, 589978
+LocalWakeup at 589978
+senderp:not ready with rstate = 5, 590507
+LocalWakeup at 590506
+senderp:not ready with rstate = 5, 591701
+LocalWakeup at 591701
+senderp:not ready with rstate = 5, 592303
+LocalWakeup at 592303
+senderp:not ready with rstate = 5, 592852
+LocalWakeup at 592852
+senderp:not ready with rstate = 5, 593689
+LocalWakeup at 593689
+senderp:not ready with rstate = 5, 594951
+LocalWakeup at 594951
+senderp:not ready with rstate = 5, 595581
+LocalWakeup at 595581
+senderp:not ready with rstate = 5, 596319
+LocalWakeup at 596319
+senderp:not ready with rstate = 5, 597702
+LocalWakeup at 597702
+senderp:not ready with rstate = 5, 599073
+LocalWakeup at 599073
